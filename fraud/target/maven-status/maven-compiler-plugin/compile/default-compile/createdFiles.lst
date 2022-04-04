@@ -1,0 +1,6 @@
+com/ideas/fraud/FraudCheckHistory.class
+com/ideas/fraud/FraudCheckService.class
+com/ideas/fraud/FraudCheckHistoryRepository.class
+com/ideas/fraud/FraudController.class
+com/ideas/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/ideas/fraud/FraudApplication.class

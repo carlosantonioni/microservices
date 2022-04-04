@@ -1,0 +1,4 @@
+com/ideas/clients/notifications/NotificationClient.class
+com/ideas/clients/fraud/FraudCheckResponse.class
+com/ideas/clients/fraud/FraudClient.class
+com/ideas/clients/notifications/NotificationRequest.class

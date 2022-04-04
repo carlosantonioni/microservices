@@ -1,0 +1,8 @@
+com/ideas/notifications/NotificationConfig.class
+com/ideas/notifications/Notifications.class
+com/ideas/notifications/NotificationApplication.class
+com/ideas/notifications/Notifications$NotificationsBuilder.class
+com/ideas/notifications/NotificationRepository.class
+com/ideas/notifications/NotificationController.class
+com/ideas/notifications/rabbitmq/NotificationConsumer.class
+com/ideas/notifications/NotificationServices.class
