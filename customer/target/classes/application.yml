@@ -5,7 +5,7 @@ spring:
     name: customer
   datasource:
     password: postgres
-    url: jdbc:postgresql://postgres:5432/ideas_services
+    url: jdbc:postgresql://postgres:5432/customer_services
     username: ideas
   jpa:
     hibernate:

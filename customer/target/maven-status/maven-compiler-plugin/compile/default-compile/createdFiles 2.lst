@@ -1,8 +1,0 @@
-com/ideas/customer/CustomerController.class
-com/ideas/customer/CustomerConfig.class
-com/ideas/customer/CustomerRepository.class
-com/ideas/customer/CustomerApplication.class
-com/ideas/customer/CustomerService.class
-com/ideas/customer/Customer$CustomerBuilder.class
-com/ideas/customer/Customer.class
-com/ideas/customer/CustomerRegistrationRequest.class
